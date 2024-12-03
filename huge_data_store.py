@@ -70,7 +70,7 @@ def insert_items_into_cosmos(items, clients):
         except Exception as e:
             print(f"error blob {single_item}")
             print(f"Error inserting item with ods_date '{item['ods_date']}': {e}")
-        
+     # ok   
 
 
 
